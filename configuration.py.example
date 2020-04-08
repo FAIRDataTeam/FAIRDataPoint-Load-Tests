@@ -1,0 +1,8 @@
+# Credentials
+email = ""
+password = ""
+
+# UUIDs of require entities
+catalog_uuid = ""
+dataset_uuid = ""
+distribution_uuid = ""
